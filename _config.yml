@@ -1,0 +1,4 @@
+# Include .well-known directory
+
+# This file is necessary for including .well-known directory in web servers.
+# More information can be added here as needed.
