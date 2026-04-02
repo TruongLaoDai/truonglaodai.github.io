@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vocabbud.english_app",
+    "sha256_cert_fingerprints": ["9B:E5:32:93:D9:EE:76:64:79:96:4A:E0:5B:A7:1E:EC:37:13:47:F0:5B:47:04:4C:AB:4D:09:06:49:AD:2A:33"]
+  }
+}]
